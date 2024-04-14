@@ -3,11 +3,11 @@
 <h2>Content</h2>
 
 <h3>
-*Only Prepared using html and css
-*An ideal design for car rental
-*All of responsive designe
-*cars information and details
-*users comments etc.
+*Only Prepared using html and css <br>
+*An ideal design for car rental<br>
+*All of responsive designe<br>
+*cars information and details<br>
+*users comments etc.<br>
 
 </h3>
 
@@ -17,8 +17,11 @@
 
 <h2>here are the ScreenShoots</h2>
 ![](screenshoot1.png)
+
 ![](screenshoot2.png)
+
 ![](screenshoot3.png)
+
 ![](screenshoot4.png)
 
 
